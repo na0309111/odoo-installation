@@ -198,7 +198,7 @@ echo  "\n--------if all your work success then will auto run the next part for i
 # If success then install saas dependencies requirements
 #--------------------------------------------------
 echo  "\n----------------------------------- saas dependencies installation -----------------------------------"
-sh ./odoo-saas-install.sh
+sudo sh odoo-saas-install.sh
 
 
 
